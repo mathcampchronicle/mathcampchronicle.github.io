@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+Sitemap: https://mathcampchronicle.github.io/sitemap.xml
+Host: https://mathcampchronicle.github.io
