@@ -1,2 +1,0 @@
-(self.webpackChunklivingdocs_gatsby_magazine=self.webpackChunklivingdocs_gatsby_magazine||[]).push([[883],{9616:function(e,t,n){"use strict";n.r(t);var a=n(7294),s=n(1290);t.default=function(){return a.createElement(s.Z,null,a.createElement("h1",null,"NOT FOUND"),a.createElement("p",null,"You just hit a route that doesn't exist... the sadness."))}}}]);
-//# sourceMappingURL=component---src-pages-404-js-9962376b3603f15c445e.js.map
