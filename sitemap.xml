@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://mathcampchronicle.github.io/sitemap.xml/announcements-77892</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mathcampchronicle.github.io/sitemap.xml/weather-77779</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mathcampchronicle.github.io/sitemap.xml/opinion-77777</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mathcampchronicle.github.io/sitemap.xml/news-reporting-77790</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mathcampchronicle.github.io/sitemap.xml/announcements-77892</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mathcampchronicle.github.io/sitemap.xml/letters-to-editor-advice-77778</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mathcampchronicle.github.io/sitemap.xml/advice-for-the-2nd-week-of-vmcsp-2021-77889</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mathcampchronicle.github.io/sitemap.xml/chronicle-staff-77888</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -13,7 +14,6 @@
 <url> <loc>https://mathcampchronicle.github.io/sitemap.xml/home-77838</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mathcampchronicle.github.io/sitemap.xml/pthe-pimportance-pof-pthe-psilent-pp-pin-pfront-pof-pevery-pword-77803</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mathcampchronicle.github.io/sitemap.xml/the-secret-5th-rule-of-mathcamp-77804</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://mathcampchronicle.github.io/sitemap.xml/news-reporting-77790</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mathcampchronicle.github.io/sitemap.xml/paul-hamrick-77806</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mathcampchronicle.github.io/sitemap.xml/allison-77782</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mathcampchronicle.github.io/sitemap.xml/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
